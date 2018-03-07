@@ -1,0 +1,20 @@
+thead th,tbody td{
+   width: 27%;
+   float:left;
+   vertical-align: middle !important;
+   text-align: center !important;
+ }
+
+ thead th:first-child, tbody td:first-child{
+   width: 19%;
+   float:left;
+ }
+
+ .input-group {
+    margin: 20px 0px;
+ }
+
+ td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    
+ }
